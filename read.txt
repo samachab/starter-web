@@ -1,3 +1,5 @@
+
+fdfdf
 stash example.
 in Master branch - more change from myfeature
 fast forward 4
