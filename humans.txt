@@ -1,3 +1,4 @@
+stash example
 in feature branch
 # humanstxt.org/
 # The humans responsible & technology  try line in NETWORK BRANCH
